@@ -11,4 +11,4 @@ steps:
 - name: test
   commands:
   - echo hello world
-  - "ls -l"
+  - python3 test.py
