@@ -11,4 +11,4 @@ steps:
 - name: test
   commands:
   - echo hello world
-  - which cat
+  - "ls -l"
