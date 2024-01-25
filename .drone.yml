@@ -10,4 +10,4 @@ platform:
 steps:
 - name: test
   commands:
-  - cat test.txt
+  - echo hello world
